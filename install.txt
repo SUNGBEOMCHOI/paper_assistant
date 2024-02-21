@@ -1,0 +1,3 @@
+cd static
+npm init
+npm install pdfjs
